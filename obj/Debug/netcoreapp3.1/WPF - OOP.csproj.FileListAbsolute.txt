@@ -1,0 +1,28 @@
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\WPF - OOP.exe
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\WPF - OOP.deps.json
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\WPF - OOP.runtimeconfig.json
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\WPF - OOP.runtimeconfig.dev.json
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\WPF - OOP.dll
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\WPF - OOP.pdb
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\WPF - OOP.csprojAssemblyReference.cache
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\WPF - OOP_MarkupCompile.cache
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\WPF - OOP_MarkupCompile.lref
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\WPF - OOP.g.resources
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\WPF - OOP.AssemblyInfoInputs.cache
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\WPF - OOP.AssemblyInfo.cs
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\WPF - OOP.dll
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\WPF - OOP.pdb
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\WPF - OOP.csproj.CopyComplete
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\AddNew.g.cs
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\AddNew.baml
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\Edit.g.cs
+C:\Users\marst\OneDrive - TEC\P2\3. OOP\WPF - OOP\obj\Debug\netcoreapp3.1\Edit.baml
